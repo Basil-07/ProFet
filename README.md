@@ -41,22 +41,23 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-!![MainPage](https://github.com/user-attachments/assets/82931169-d202-4ca2-93c5-89bad8ad870e)
-Main Page
+![MainPage](https://github.com/user-attachments/assets/82931169-d202-4ca2-93c5-89bad8ad870e)
+### Main Page
 *Main Screen of the app*
-AuraFuture
-![![aurafuture](https://github.com/user-attachments/assets/b5db0a77-81e5-4e75-a57b-63ac69405b4e)
-]
+### AuraFuture
+![aurafuture](https://github.com/user-attachments/assets/b5db0a77-81e5-4e75-a57b-63ac69405b4e)
+
 *AuraFinder output screen with detail predictions*
+### AuraFinder
 ![aurafinder camera page](https://github.com/user-attachments/assets/84245fe7-6eb0-4345-9beb-14f1fff7d94b)
 
 
 *Add caption explaining what this shows*
 
 # Diagrams
-AuraNet
+### AuraNet
 ![auranet](https://github.com/user-attachments/assets/06cf8819-5a0a-46e2-b426-776c1013ec7f)
-Aura Finder
+### AuraFinder
 ![2](https://github.com/user-attachments/assets/1bb7a326-74d4-460f-952a-575436ea2cc6)
 
 # Schematic & Circuit
