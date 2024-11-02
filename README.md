@@ -40,19 +40,19 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![MainPage](https://github.com/user-attachments/assets/82931169-d202-4ca2-93c5-89bad8ad870e)
 ### Main Page
 *Main Screen of the app*
 ### AuraFuture
 ![aurafuture](https://github.com/user-attachments/assets/b5db0a77-81e5-4e75-a57b-63ac69405b4e)
 
-*AuraFinder output screen with detail predictions*
+*AuraFuture output screen with detail predictions*
 ### AuraFinder
 ![aurafinder camera page](https://github.com/user-attachments/assets/84245fe7-6eb0-4345-9beb-14f1fff7d94b)
 
 
-*Add caption explaining what this shows*
+*AuraFinder camera Bot*
 
 # Diagrams
 ### AuraNet
