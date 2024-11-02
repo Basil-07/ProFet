@@ -9,8 +9,8 @@
 
 ### Team Members
 - Team Lead: Umarul Farooq Asan A - College of Engineering Trivandrum
-- Member 2: Anirudg Narayanan - College of Engineering Trivandrum
-- Member 3: Basil Rexy -College of Engineering Trivandrum
+- Member 2: Anirudh Narayan A - College of Engineering Trivandrum
+- Member 3: Basil Rexy Kuriakose - College of Engineering Trivandrum
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -23,10 +23,10 @@ Profet addresses the need for imaginative insight into the future by offering a 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
--Dart
+- Dart
 - Flutter
-- Flutter Dart files :Battery_plus,Sensor_plus,Screen_Brightness 
-- Vs code,AndroidStudio
+- Flutter Dart files: Battery_plus, Sensor_plus, Screen_Brightness 
+- Vs code, AndroidStudio
 
 
 ### Implementation
@@ -41,22 +41,23 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!![MainPage](https://github.com/user-attachments/assets/82931169-d202-4ca2-93c5-89bad8ad870e)
+Main Page
+*Main Screen of the app*
+AuraFuture
+![![aurafuture](https://github.com/user-attachments/assets/b5db0a77-81e5-4e75-a57b-63ac69405b4e)
+]
+*AuraFinder output screen with detail predictions*
+![aurafinder camera page](https://github.com/user-attachments/assets/84245fe7-6eb0-4345-9beb-14f1fff7d94b)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
-###AuraNet
+AuraNet
 ![auranet](https://github.com/user-attachments/assets/06cf8819-5a0a-46e2-b426-776c1013ec7f)
-###Aura Finder
+Aura Finder
 ![2](https://github.com/user-attachments/assets/1bb7a326-74d4-460f-952a-575436ea2cc6)
-
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
@@ -84,9 +85,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Umarul Farooq Asan A : 
+- Anirudh Narayan A: [Specific contributions]
+- Basil Rexy Kuriakose: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
