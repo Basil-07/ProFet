@@ -51,9 +51,9 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-AuraNet
+###AuraNet
 ![auranet](https://github.com/user-attachments/assets/06cf8819-5a0a-46e2-b426-776c1013ec7f)
-Aura Finder
+###Aura Finder
 ![2](https://github.com/user-attachments/assets/1bb7a326-74d4-460f-952a-575436ea2cc6)
 
 For Hardware:
