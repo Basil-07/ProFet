@@ -41,16 +41,17 @@ For Software:
 For Software:
 
 # Screenshots
+### Main Screen
 ![MainPage](https://github.com/user-attachments/assets/82931169-d202-4ca2-93c5-89bad8ad870e)
-### Main Page
 *Main Screen of the app*
-### AuraFuture
-![aurafuture](https://github.com/user-attachments/assets/b5db0a77-81e5-4e75-a57b-63ac69405b4e)
-
+### AuraFuture User Input Screen
+![userinput](https://github.com/user-attachments/assets/fb90f918-c671-4085-a8e1-c20fbd710fee)
+*AuraFuture user input  reader analysing user's input *
+### AuraFuture Output Screen
+![outputblue](https://github.com/user-attachments/assets/b3c92225-bcfe-42fc-9359-09102dabfdcd)
 *AuraFuture output screen with detail predictions*
 ### AuraFinder
-![aurafinder camera page](https://github.com/user-attachments/assets/84245fe7-6eb0-4345-9beb-14f1fff7d94b)
-
+![cameraobjects](https://github.com/user-attachments/assets/955092b5-4182-48ee-bb7c-b2f24704278a)
 
 *AuraFinder camera Bot*
 
