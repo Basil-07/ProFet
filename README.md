@@ -54,7 +54,11 @@ For Software:
 ![cameraobjects](https://github.com/user-attachments/assets/955092b5-4182-48ee-bb7c-b2f24704278a)
 
 *AuraFinder camera Bot*
+### HeatMap
+![heatmap](https://github.com/user-attachments/assets/9d6fea26-59da-4e88-8530-0241cd31970e)
 
+
+*AuraFinder camera Bot positive aura negative aura distribution*
 # Diagrams
 ### AuraNet
 ![auranet](https://github.com/user-attachments/assets/06cf8819-5a0a-46e2-b426-776c1013ec7f)
